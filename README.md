@@ -1,13 +1,8 @@
 ## Hello there 👋
-I am Arthur Frin, a third-year student at ESGI, currently doing an apprenticeship at Extia.
+I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doing an apprenticeship at Extia.
 <img align="right" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQHC6u_DHLZL1g/company-logo_200_200/0/1630528918884/esgi_logo?e=2147483647&v=beta&t=7hCx-wUZIZG13h9-LVjUsFjcn5tv5Qt8YUupcAYREek" alt="ESGI" />
 <img align="right" width="30px" src="https://media.licdn.com/dms/image/D560BAQFcwg6XJ5r3Eg/company-logo_200_200/0/1667403446853/extia_logo?e=2147483647&v=beta&t=9ZH4gB0FtuKQJEgPqOiUZGkVe3C57LmiES-dHMSq_sM" alt="Extia" />
 
-### ✨ My hobbies
-- Coding 💻
-- Basketball 🏀
-- Climbing 🧗
----
 ### 🤖 Languages and Tools
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
@@ -27,6 +22,11 @@ I am Arthur Frin, a third-year student at ESGI, currently doing an apprenticeshi
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" />
 
+### ✨ My hobbies
+- Coding 💻
+- Basketball 🏀
+- Climbing 🧗
+---
           
           
 
