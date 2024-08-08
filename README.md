@@ -27,7 +27,8 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" />
-  
+<br />
+
 ### ⚡️ statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=arcoss03&show=reviews,&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcoss03&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
