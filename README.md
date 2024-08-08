@@ -3,6 +3,11 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 <img align="right" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQHC6u_DHLZL1g/company-logo_200_200/0/1630528918884/esgi_logo?e=2147483647&v=beta&t=7hCx-wUZIZG13h9-LVjUsFjcn5tv5Qt8YUupcAYREek" alt="ESGI" />
 <img align="right" width="30px" src="https://media.licdn.com/dms/image/D560BAQFcwg6XJ5r3Eg/company-logo_200_200/0/1667403446853/extia_logo?e=2147483647&v=beta&t=9ZH4gB0FtuKQJEgPqOiUZGkVe3C57LmiES-dHMSq_sM" alt="Extia" />
 
+### ✨ My hobbies
+- Coding 💻
+- Basketball 🏀
+- Climbing 🧗
+
 ---
 ### 🤖 Languages and Tools
 
@@ -24,11 +29,11 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" />
 <br />
 <br />
+  
+### ⚡️ statistics
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arcoss03&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcoss03&layout=donut" alt="Top Langs" />
+  
 
-### ✨ My hobbies
-- Coding 💻
-- Basketball 🏀
-- Climbing 🧗
-          
-          
+
 
