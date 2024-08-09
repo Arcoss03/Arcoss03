@@ -34,7 +34,7 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 
 <div>
 <img height="200px" src="https://streak-stats.demolab.com/?user=arcoss03&theme=transparent&ring=EF7163&fire=54557B&currStreakNum=EF7163&sideNums=54557B&currStreakLabel=EF7163&sideLabels=54557B&dates=EF7163&excludeDaysLabel=54557B" alt="GitHub Streak" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcoss03&layout=donut&title_color=54557B&text_color=54557B" alt="Top Langs" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcoss03&layout=donut&title_color=54557B&text_color=54557B&theme=transparent" alt="Top Langs" />
 </div>
 
 
