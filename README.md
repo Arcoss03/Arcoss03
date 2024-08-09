@@ -31,7 +31,7 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 <br />
 
 ### ⚡️ statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=arcoss03&show=reviews,&theme=transparent&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arcoss03&theme=transparent)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcoss03&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
