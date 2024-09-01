@@ -27,11 +27,9 @@ I am Arthur Frin, a third-year student at ESGI in France 🇫🇷, currently doi
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" />
-<br />
-<br />
+<br clear="both" />
 
 ### ⚡️ statistics
-
 <div>
 <img height="200px" src="https://streak-stats.demolab.com/?user=ArthurFrin&theme=transparent&ring=EF7163&fire=EF7163&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=636C76&excludeDaysLabel=636C76" alt="GitHub Streak" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFrin&layout=donut&title_color=0969DA&text_color=636C76&theme=transparent" alt="Top Langs" />
